@@ -2,3 +2,4 @@ Membuat Website Toko online
 - Membuat website bersama tim
 - menyiapkan idenya
 - pembagian tugas
+- membuat beberapa fitur untuk websitenya
