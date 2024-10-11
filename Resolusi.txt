@@ -1,4 +1,4 @@
-Resolusi
-- komit
-- testing
-- something
+Membuat Website Toko online
+- Membuat website bersama tim
+- menyiapkan idenya
+- pembagian tugas
